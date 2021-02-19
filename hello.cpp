@@ -5,7 +5,7 @@
 #include <iostream>
 
 int main () {
-  int version(5);
+  int version(6);
   std::cout << "Test version: " << version << std::endl;
   return 0;
 };
