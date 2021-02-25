@@ -6,6 +6,9 @@
 
 // do some change here
 
+
+// and lets do a new tag
+
 int main () {
   int version(6);
   std::cout << "Test version: " << version << std::endl;
